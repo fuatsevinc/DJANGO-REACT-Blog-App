@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     
     # --- Kendi yazdigimiz APP ler ---
-    'blog',
+    #'blog',
 ]
 
 ROOT_URLCONF = 'main.urls'
