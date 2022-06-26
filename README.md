@@ -3,7 +3,7 @@
 
 ### This is a “Blogging Platform” which gives all general features a blog should have.
 
-###The backend is completely build on Django using Django Rest Framework, while the frontend is completed using ReactJS.
+### The backend is completely build on Django using Django Rest Framework, while the frontend is completed using ReactJS.
 
 - Features
 - Login/Registration
@@ -27,7 +27,7 @@
 - Run python manage.py migrate.
 - Create a superuser: python manage.py createsuperuser
 - Run the server: python manage.py runserver.
-### Frontend Setup
+# Frontend Setup
 - Navigate the current working directory to blog_frontend: cd ./Django-React-Blog/frontend/blog_frontend/.
 - Install the all frontend dependencies using npm: npm install.
 - Run the server: npm start.
